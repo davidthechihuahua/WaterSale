@@ -1,3 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">WaterSale</string>
+
+    <string name="app_name">Water</string>
+
+    <string-array name="temperature_array">
+        <item>Hot</item>
+        <item>Warm</item>
+        <item>Room Temp</item>
+        <item>Cold</item>
+        <item>Frozen</item>
+    </string-array>
+
+    <string-array name="salt_array">
+        <item>Salt water</item>
+        <item>Fresh water</item>
+    </string-array>
+
+    <string-array name="container_array">
+        <item>Bottle</item>
+        <item>Jar</item>
+        <item>Carton</item>
+        <item>Pouch</item>
+    </string-array>
+
+
+
 </resources>
